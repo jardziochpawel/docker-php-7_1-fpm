@@ -1,2 +1,2 @@
-# docker-php-fpm7_1
-docker-php-fpm7_1
+# docker-php-7_1-fpm
+docker-php-7_1-fpm
